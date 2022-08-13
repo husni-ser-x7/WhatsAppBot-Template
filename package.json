@@ -1,7 +1,7 @@
 {
-  "name": "AlienAlfaBot-MD",
+  "name": "ROLEX-MD",
   "version": "2.1.0",
-  "description": "Beta Test By an Alien",
+  "description": "Rolex bot craeted using node.js",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -20,7 +20,7 @@
     "2021",
     "wabase-md"
   ],
-  "author": "Alien-Alfa.",
+  "author": "husni-ser-x7.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alien-Alfa/WhatsAppBot-MD.git"
+    "url": "git+https://github.com/husni-ser-x7/ROLEX-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Alien-Alfa/WhatsAppBot-MD/issues"
+    "url": "https://github.com/husni-ser-x7/ROLEX-MD/issues"
   },
-  "homepage": "https://github.com/Alien-Alfa/WhatsAppBot-MD#readme"
+  "homepage": "https://github.com/husni-ser-x7/ROLEX-MD#readme"
 }
